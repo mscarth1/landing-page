@@ -99,3 +99,32 @@ img {
     border-color: #3882f6;
     border-radius: 10px;
 }
+
+.banner {
+    background-color: #e5e7eb;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.banner-quote {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.attribution {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 800;
+}
