@@ -10,3 +10,6 @@ https://www.pexels.com/photo/hungarian-horntail-dragon-at-universal-studios-3359
 
 sci-fi
 https://www.pexels.com/photo/gray-and-black-galaxy-wallpaper-2150/
+
+dystopia
+https://pixabay.com/illustrations/dystopia-city-apocalypse-ruins-6670405/
